@@ -1,6 +1,6 @@
 # Api Series com Lumen PHP Framework
 
-Esta Api foi desenvolvida no curso de Lumen com o Prof. Vinicius Dias da Alura. 
+Esta Api foi desenvolvida no curso de Lumen com o Prof. Vinicius Dias da Escola Alura. 
 O objetivo desta publicação é mergulhar nos estudos deste microframework. 
 Além de reproduzir o conteúdo para reforçar o aprendizado 
 quero implementar novas funcionalidades.
