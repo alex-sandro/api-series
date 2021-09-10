@@ -2,14 +2,14 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Serie;
+use App\Models\Episodio;
 
 use Illuminate\Http\Request;
 
-class SerieController extends BaseController
+class EpisodioController extends BaseController
 {
     public function __construct()
     {
-        $this->classe = Serie::class;
+        $this->classe = Episodio::class;
     }
 }
